@@ -1,4 +1,4 @@
-# 
+# Melhor CodeSynth baixador. Baixe e instale com arquitetura escalável e baixo uso de recursos — rápido, seguro e fácil de usar.
 
 
 
